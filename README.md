@@ -58,7 +58,7 @@ The final model was able to correctly identify and evaluate most of the samples,
 
 • Infinite irregularities in handwritten characters.
 
-• Misinterpretation of characters lead to incorrectevaluation.
+• Misinterpretation of characters lead to incorrect evaluation.
 
 <h4> Jupyter Notebook: <a href= https://github.com/abhisheknagarajan/Handwritten-Numerical-Solver-with-6-Classes/blob/main/HANDWRITTEN_EQUATION_SOLVER.ipynb>Handwritten Equation Solver.ipynb</a></h4>
 
