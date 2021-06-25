@@ -14,7 +14,7 @@ Solving mathematical equations is an integral part of science right from basic s
 
 The aim of this project is to build a deep learning model that can recognise handwritten numbers and mathematical symbols, read it as an equation and evaluate it to give the solution.
 
-# able of Content
+# TABLE OF CONTENT
 
 1 - Import Libraries
 
@@ -48,14 +48,16 @@ The aim of this project is to build a deep learning model that can recognise han
 
 7.3 - TEST CASE 3
 
-8 - Conclusions
+# CONCLUSIONS:
 
 The final model was able to correctly identify and evaluate most of the samples, but on some occasions it failed to identify one or more characters due to the lack of trainingsamples.
 
-9 - Challenges
+# CHALLENGES
 
 • Limited number of image classes and trainingsamples.
+
 • Infinite irregularities in handwritten characters.
+
 • Misinterpretation of characters lead to incorrectevaluation.
 
 
