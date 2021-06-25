@@ -60,5 +60,6 @@ The final model was able to correctly identify and evaluate most of the samples,
 
 • Misinterpretation of characters lead to incorrectevaluation.
 
-<b> Jupyter Notebook </b> : https://github.com/abhisheknagarajan/Handwritten-Numerical-Solver-with-6-Classes/blob/main/HANDWRITTEN_EQUATION_SOLVER.ipynb
-<b> Dataset </b>          : https://github.com/abhisheknagarajan/Handwritten-Numerical-Solver-with-6-Classes/blob/main/HANDWRITTEN-NUMERICAL-SOLVER-6Classes.zip
+<h4> Jupyter Notebook: <a href= https://github.com/abhisheknagarajan/Handwritten-Numerical-Solver-with-6-Classes/blob/main/HANDWRITTEN_EQUATION_SOLVER.ipynb>Handwritten Equation Solver.ipynb</a></h4>
+
+<h4> Dataset:<a href= https://github.com/abhisheknagarajan/Handwritten-Numerical-Solver-with-6-Classes/blob/main/HANDWRITTEN-NUMERICAL-SOLVER-6Classes.zip>HANDWRITTEN-NUMERICAL-SOLVER-6Classes.zip</h4>
